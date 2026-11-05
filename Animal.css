@@ -1,0 +1,9 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-image: url("https://i.chzbgr.com/full/7541468416/hA41D50DD/screw-this-im-out");
+}
+.main{
+    align-content: center;
+}
